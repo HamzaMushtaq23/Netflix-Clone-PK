@@ -1,2 +1,21 @@
 # Netflix-Clone-PK
-A static Netflix homepage clone built using only HTML and CSS. It replicates the UI design of Netflix with a focus on layout and styling. No JavaScript functionality is included yet, and responsiveness is not implemented.
+🎬 Netflix Clone (HTML & CSS Only)
+A simple static clone of the Netflix homepage built using only HTML and CSS. This project replicates the visual design and layout of Netflix, including header navigation, banner section, and content carousels.
+
+⚠️ Note: This version does not include JavaScript functionality and is not yet responsive.
+
+🔧 Features:
+
+Clean HTML5 & CSS3 structure
+
+Styled navigation bar and hero section
+
+Grid-based layout for movie/TV content thumbnails
+
+Inspired by Netflix’s official UI
+
+📌 Next Steps:
+
+Make the layout fully responsive for all screen sizes
+
+Add JavaScript to implement interactivity (e.g., sliders, login pop-ups)
