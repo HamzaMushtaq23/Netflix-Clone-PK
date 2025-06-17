@@ -2,7 +2,7 @@
 🎬 Netflix Clone (HTML & CSS Only)
 A simple static clone of the Netflix homepage built using only HTML and CSS. This project replicates the visual design and layout of Netflix, including header navigation, banner section, and content carousels.
 
-⚠️ Note: This version does not include JavaScript functionality and is not yet responsive.
+Note: This version does not include JavaScript functionality and is not yet responsive.
 
 🔧 Features:
 
